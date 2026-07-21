@@ -1,6 +1,7 @@
 # Business Management Web Application : <br>
 
-"C:\Users\Namitha B M\OneDrive\画像\project\Screenshot 2026-07-22 014844.png"
+
+<img width="1920" height="1080" alt="Screenshot 2026-07-22 014844" src="https://github.com/user-attachments/assets/67237d60-f2de-42a3-81ef-fc9fe53f35d6" />
 
 
 
