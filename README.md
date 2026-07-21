@@ -89,19 +89,20 @@ server.port=2330[Optional] <br>
 
 #### Products 
 
-![products (2)](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/0496f63a-f30c-4108-91a7-966bd37b2b54)
+<img width="1920" height="1080" alt="Screenshot 2026-07-22 014858" src="https://github.com/user-attachments/assets/7f4c8450-e1f2-45c3-864e-46a200fa19fe" />
+
 
 
 #### Location 
 
-![locateus](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/30e40d74-d2f0-48cb-91b3-ea515f12c498)
+<img width="1920" height="1080" alt="Screenshot 2026-07-22 014915" src="https://github.com/user-attachments/assets/d7ef296f-9115-4d15-b1c9-975bc5d3c52f" />
 
 
 
-#### Login Page
 
-![logins](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/9c1efb48-5b23-4a43-8c96-81d55a7b1180)
+#### Log
 
+<img width="1920" height="1080" alt="Screenshot 2026-07-22 014939" src="https://github.com/user-attachments/assets/a8d04980-2cf8-485e-9b24-d30b3b467e60" />
 
 
 
@@ -110,11 +111,22 @@ server.port=2330[Optional] <br>
 ![adminpanel](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/b89aa5ee-3f7f-4145-b063-048729e7fbe9)
 
 
+### About
+
+<img width="1920" height="1080" alt="Screenshot 2026-07-22 014929" src="https://github.com/user-attachments/assets/98e8a41a-f482-472e-9d3b-394797e3bf36" />
+
+
+
 #### UserPanel 
 
-![userpanel](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/e0f81692-c049-4a2f-a78d-30d3906f4429)
+<img width="1920" height="1080" alt="Screenshot 2026-07-22 020644" src="https://github.com/user-attachments/assets/16dae374-19d1-486d-933f-6295346d5a74" />
+
 
 
 ### Exception page
 
-![exceptionPage](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/4349a429-61ff-4ecd-a463-2900874e1ea5)
+<img width="1920" height="1080" alt="Screenshot 2026-07-22 021031" src="https://github.com/user-attachments/assets/0eb7c89a-8dfd-451f-a29f-64ae694b73aa" />
+
+
+
+
