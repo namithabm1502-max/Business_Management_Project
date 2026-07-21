@@ -45,7 +45,7 @@
      
 3. Make sure you are in the Business_Management_Project directory. <br>
 
-![packageExplorer](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/3ea1eb7f-8e49-4b76-96e4-798b6b8e8715)
+<img width="1917" height="715" alt="Screenshot 2026-07-22 021416" src="https://github.com/user-attachments/assets/8e51d277-e6cb-43bd-bddf-b459ceed1230" />
 
 
 4.Configure the database connection is application.properties (check the Database section for more information). <br>
@@ -78,9 +78,7 @@ server.port=2330[Optional] <br>
 
 ## WorkFlow :
 
-![workflow](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/aea72470-49c8-41a4-8974-48737638ae19)
-
-
+<img width="850" height="883" alt="Screenshot 2026-07-22 021559" src="https://github.com/user-attachments/assets/1930a0b7-04a1-431c-8750-b7d002907fc2" />
 
 
 
