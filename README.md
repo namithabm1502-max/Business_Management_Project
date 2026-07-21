@@ -1,7 +1,7 @@
 # Business Management Web Application : <br>
 
 
-<img width="1920" height="1080" alt="Screenshot 2026-07-22 014858" src="https://github.com/user-attachments/assets/92ce5771-baeb-46c5-821b-9cb478c109e0" />
+![Uploading Screenshot 2026-07-22 014844.png…]()
 
 
 
